@@ -1,1 +1,1 @@
-# Atividade feita sobre testes de software
+# Atividade de testes de software
